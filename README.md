@@ -2,6 +2,6 @@
 <img width="654" height="406" alt="image" src="https://github.com/user-attachments/assets/32373a4e-ea38-405d-a0e3-90d34c67fda6" />
 
 
-This project implements a complete SQL-based Library Database Management System designed to store, organize, and query information about books, members, authors, categories, and loan transactions.
+The Library Database Management and Query System is designed to streamline the operations of managing library resources through a centralized database. It addresses the challenges of manual record-keeping by automating the cataloging, borrowing, and returning of books, making the tracking of resources and user activities more efficient. The system organizes data in structured tables such as books, members, and transactions, ensuring data accuracy and integrity while simplifying information retrieval. By providing a user-friendly interface and powerful query capabilities, both library staff and patrons can quickly locate materials and monitor borrowing status. This digital approach enhances collaboration across library branches by facilitating resource sharing and minimizing redundancies. Moreover, the system supports reporting and analytics, enabling librarians to make informed decisions regarding acquisitions and circulation. It balances immediate data manipulation with robust search functionalities to cater to various user needs. Ultimately, this system elevates library service quality, reducing workload for staff and improving access to knowledge for users in an expanding digital age.
 
 
